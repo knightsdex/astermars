@@ -1,0 +1,15 @@
+{
+  "version": 1780276861671,
+  "updatedAt": "2026-06-01T01:21:01.671Z",
+  "pollInterval": 10000,
+  "videos": [
+    {
+      "id": "spcx69420-transmission-hd",
+      "title": "SPCX69420 Transmission HD",
+      "label": "HD",
+      "src": "/assets/videos/spcx69420-transmission-hd.mp4",
+      "type": "video/mp4",
+      "size": 80199125
+    }
+  ]
+}
